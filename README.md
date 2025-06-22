@@ -1,7 +1,6 @@
-# Responsible AI Blog
-# Blog 
-Explaining Example Scenario Prompts
-# Your mission:
+# Judge the Bot Blog
+
+# The mission:
 
 Describe what the AI is doing.
 
